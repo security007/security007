@@ -18,10 +18,10 @@
 
 ## 🗂️ Current Projects (some public, most aren’t)
 
-- 🔍 **Reconnaissance tools** (OSINT, passive scan, fingerprinting)
-- 🕷️ **Custom exploit chains** (web, Laravel, Cloudflare, ADB)
-- 🧪 **Zero-day environments** (sandboxed testing)
-- 📦 **Encrypted drop tools** (AES-GCM, payload delivery, C2)
+- 🔍 **Reconnaissance tools** 
+- 🕷️ **Custom exploit chains and C2** 
+- 🧪 **Zero-day environments**
+- 📦 **Encrypted drop tools**
 
 > _I don’t fork tools. I build my own._
 
