@@ -29,8 +29,8 @@
 
 ## 🧿 Traces
 
-```bash
-curl https://github.com/security007 --silent | grep -i 'what you shouldn't see'
+```powershell
+$r=Invoke-WebRequest 'https://github.com/security007' -UseBasicParsing; if ($r.Content -match '\./'){Add-Type -AssemblyName PresentationFramework; [System.Windows.MessageBox]::Show("Hello World", "Alert")}
 ```
 
 ## 📡 About
